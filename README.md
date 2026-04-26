@@ -5,7 +5,7 @@
     <td><img src="https://github.com/user-attachments/assets/c47524b6-123f-46ea-8646-0cdb87982cda" width="270"></td>
     <td><img src="https://github.com/user-attachments/assets/5b3a1943-d7e1-4e16-9b9c-69d5c22ab3f6" width="270"></td>
     <td><img src="https://github.com/user-attachments/assets/03f3ff7b-50d7-42f5-8619-8eba31c466fb" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/00746c16-aa42-4eae-b76d-068e498bb46a" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/c1a14760-1361-46c9-8f9f-7078fc175ce9" width="270"></td>
   </tr>
 </table>
 
@@ -38,6 +38,8 @@ FLauncher is a powerful, terminal-inspired Android launcher designed for speed, 
   - `notifications`: View all unread notifications in a clean, terminal-style list.
   - Thread Extraction: Automatically extracts and displays multiple messages from bundled chat notifications (WhatsApp/Telegram).
   - Click-to-Open: Tap any notification in the terminal to jump straight into the message.
+- **Weather**:
+  - `weather`: View odiern weather condition.
 - **Productivity & System**:
   - Screen Time: Live tracking of your daily device usage displayed at the top.
   - `download`: Shortcut to open the Downloads folder.

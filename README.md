@@ -41,8 +41,6 @@ FLauncher is a powerful, terminal-inspired Android launcher designed for speed, 
 - **Productivity & System**:
   - Screen Time: Live tracking of your daily device usage displayed at the top.
   - `download`: Shortcut to open the Downloads folder.
-  - `clear`: Clears the terminal output for a fresh start.
-  - `root`: Returns the terminal focus to the home directory.
 - **Permission & Setup Dashboard**:
   - Integrated `help` command provides a real-time status of all required permissions.
   - Interactive Setup: Click on permission statuses ([Notifications], [Screen Time], [Contacts], etc.) to jump directly to the relevant Android system settings.

@@ -9,6 +9,15 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1f7b1ccb-751e-4c55-be59-84cf384305d1" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/71b42ba0-7ddf-4e12-a88d-68fe4b319522" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/a07231d5-001f-4d76-805f-c2fd01bab6d2" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/d1caa02c-3ef0-4e1a-938f-45ac77782299" width="270"></td>
+  </tr>
+</table>
+
 FLauncher is a powerful, terminal-inspired Android launcher designed for speed, focus, and minimalism. It replaces your complex home screen with a high-performance command-line interface.
 
 ## Core Features

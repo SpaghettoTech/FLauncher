@@ -2,19 +2,21 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c47524b6-123f-46ea-8646-0cdb87982cda" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/5b3a1943-d7e1-4e16-9b9c-69d5c22ab3f6" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/03f3ff7b-50d7-42f5-8619-8eba31c466fb" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/19f4b7c5-b14d-49d4-adfb-e98a7a94e8d0" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/be1f7461-0543-46cd-8e0d-d289bb715058" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/050e9fe0-4ed9-48ed-b7aa-3448cf0fdf04" width="270"></td>
     <td><img src="https://github.com/user-attachments/assets/c1a14760-1361-46c9-8f9f-7078fc175ce9" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/020d564c-10e6-4184-a2dc-5e3a2bf7cfcb" width="270"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1f7b1ccb-751e-4c55-be59-84cf384305d1" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/71b42ba0-7ddf-4e12-a88d-68fe4b319522" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/a07231d5-001f-4d76-805f-c2fd01bab6d2" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/d1caa02c-3ef0-4e1a-938f-45ac77782299" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/65c8e0f3-7d2f-4482-8923-74b106acac71" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/09c3a58d-cb0a-44a9-87cb-b18cc02291d7" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/f353f0d3-45dd-4211-9fd1-27b907f2ffa2" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/2369c941-4338-4797-b3ba-6e2eca1ea81a" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/a8046296-570a-4952-80de-1a3ce357088d" width="270"></td>
   </tr>
 </table>
 
@@ -22,36 +24,40 @@ FLauncher is a powerful, terminal-inspired Android launcher designed for speed, 
 
 ## Core Features
 
-- **Split-Screen Layout**: A modern terminal interface on the left and a dynamic, bottom-anchored vertical command sidebar on the right.
+- **Split-Screen Layout**: A modern terminal interface on the left and a dynamic command sidebar on the right.
 - **App Management**:
   - `apps`: Lists all installed applications. Shows recently installed apps (last 2 days) at the top.
   - `<app name>`: Instantly launch any app.
   - `remove <app>`: Quickly uninstall applications.
-- **Smart Messaging Integration**:
-  - Direct Chat: Type a messaging app name (WhatsApp, Telegram, Signal, etc.) followed by a contact name to open the chat directly.
-  - Contact Suggestions: Real-time contact suggestions appear in the sidebar as you type messaging commands.
-  - Multi-Word Support: Seamlessly handles apps with multi-word names like "Google Messages".
-- **Navigation & Search**:
-  - `maps <location>`: Opens your preferred map app with the search query pre-filled.
-  - Browser Search: Anything not recognized as a command is automatically searched in your default browser.
-- **Notification Center**:
-  - `notifications`: View all unread notifications in a clean, terminal-style list.
-  - Thread Extraction: Automatically extracts and displays multiple messages from bundled chat notifications (WhatsApp/Telegram).
-  - Click-to-Open: Tap any notification in the terminal to jump straight into the message.
-- **Weather**:
-  - `weather`: View odiern weather condition.
+- **Smart Messaging & Terminal Chat**:
+  - **Terminal Chat Session**: Clicking a messaging notification opens a dedicated chat session in the terminal, clearing previous output for focus.
+  - **Direct App Launch**: Swiping left on a messaging notification (in the sidebar or history) opens the chat directly in the native app.
+  - **Quick Reply**: Reply to messages directly from the terminal prompt during a chat session.
+- **Advanced Notification Center**:
+  - **Sidebar Notifications**: Real-time notifications displayed in the right sidebar with app-specific branding (orange labels).
+  - **Notification History**: Access past notifications by clicking the history icon (⏱︎).
+  - **Swipe Actions**:
+    - **Swipe Right**: Dismiss notification (active) or remove from history.
+    - **Swipe Left (Messaging)**: Open directly in the messaging app.
+    - **Enhanced Sensitivity**: Optimized swipe detection for a fluid experience.
+  - **Smart Click**: Non-messaging notifications open the respective app instantly with a single tap.
+- **Navigation & Media**:
+  - **Media Controls**: Integrated Play/Pause controls in the sidebar, synchronized with active music notifications.
+  - **Dynamic Sidebar Clock**: Parrot OS style clock (`// HH:mm`) in the sidebar; tap to open the Clock/Alarm app.
+  - `maps <location>`: Opens maps with the search query pre-filled.
+  - Browser Search: Unrecognized commands are automatically searched in your default browser.
 - **Productivity & System**:
-  - Screen Time: Live tracking of your daily device usage displayed at the top.
-  - `download`: Shortcut to open the Downloads folder.
-- **Permission & Setup Dashboard**:
-  - Integrated `help` command provides a real-time status of all required permissions.
-  - Interactive Setup: Click on permission statuses ([Notifications], [Screen Time], [Contacts], etc.) to jump directly to the relevant Android system settings.
-  - Default Home: Easily set FLauncher as your default home screen via the interactive help menu.
+  - Screen Time: Live tracking of daily device usage displayed at the top.
+  - `download`: Shortcut to the Downloads folder.
+  - `clear`: Clears the terminal output for a fresh start.
+  - `delete`: Clears the notification history (when in history view).
+- **Interactive Setup Dashboard**:
+  - `help` command provides a real-time status of all permissions.
+  - Tap permission statuses ([Notifications], [Screen Time], etc.) to open relevant system settings.
 
 ## Design Aesthetics
 
-- **Vibrant Terminal Look**: High-contrast green and blue text on a deep dark background.
-- **Interactive Sidebar**: Suggestions grow from the bottom up, keeping the most relevant choices right above your keyboard.
-- **Premium Typography**: Uses Monospace fonts for a true coder/hacker aesthetic.
-
-
+- **Parrot OS Inspiration**: High-contrast green and orange accents on a deep dark background.
+- **Premium Terminal UI**: Thin green dividers and scan-line aesthetics for a professional "hacker" look.
+- **Reactive Feedback**: Buttons and items provide visual feedback on interaction.
+- **Monospace Typography**: Consistent use of monospace fonts for the authentic terminal feel.

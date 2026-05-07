@@ -2,31 +2,25 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/19f4b7c5-b14d-49d4-adfb-e98a7a94e8d0" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/be1f7461-0543-46cd-8e0d-d289bb715058" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/050e9fe0-4ed9-48ed-b7aa-3448cf0fdf04" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/c1a14760-1361-46c9-8f9f-7078fc175ce9" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/020d564c-10e6-4184-a2dc-5e3a2bf7cfcb" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/b5f5fbae-a132-48c5-9563-24707325f1f5" alt="Screenshot 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/6984928c-688f-4556-a222-630a75cc9fe1" alt="Screenshot 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/08c51f22-b586-4da3-96a7-76ce582adbca" alt="Screenshot 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/0bc1ed04-8da6-408f-8539-365dc4e9275f" alt="Screenshot 4"></td>
+    <td><img src="https://github.com/user-attachments/assets/4204630b-d686-4c2c-b58f-5bb01d7ec11c" alt="Screenshot 5"></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/69be05e3-9e12-4385-8e7c-5d41ec2c87d6" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/b6db985e-63e1-4fa9-bf02-8433730c02e4" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/6ba9d48f-8b0b-440a-adf4-71b78ec497f8" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/44e3f82f-ce2e-436a-8791-b231f629a8b0" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/ab5db187-76fb-446e-b4c3-36e303875a68" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/3533ca7d-ca34-4f53-917c-f4fb76d9a8e3" alt="Screenshot 6"></td>
+    <td><img src="https://github.com/user-attachments/assets/0adb0c9a-366e-4c7d-bdf6-dcf5ece4d630" alt="Screenshot 7"></td>
+    <td><img src="https://github.com/user-attachments/assets/e8b942eb-3f73-4327-a6b3-138df48185f2" alt="Screenshot 8"></td>
+    <td><img src="https://github.com/user-attachments/assets/3b659430-edfa-4541-9dd9-7cfc4e95a539" alt="Screenshot 9"></td>
+    <td><img src="https://github.com/user-attachments/assets/b0a41018-1265-4963-a17e-05057b5cb5b3" alt="Screenshot 10"></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/65c8e0f3-7d2f-4482-8923-74b106acac71" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/09c3a58d-cb0a-44a9-87cb-b18cc02291d7" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/f353f0d3-45dd-4211-9fd1-27b907f2ffa2" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/2369c941-4338-4797-b3ba-6e2eca1ea81a" width="270"></td>
-    <td><img src="https://github.com/user-attachments/assets/a8046296-570a-4952-80de-1a3ce357088d" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/9ec82297-c0ef-4a00-853a-f73d1e4922b6" alt="Screenshot 11"></td>
+    <td><img src="https://github.com/user-attachments/assets/858fac8e-2715-4656-9630-47ee96713e5a" alt="Screenshot 12"></td>
+    <td><img src="https://github.com/user-attachments/assets/8380c87c-2f28-47f4-ae18-69f84381223a" alt="Screenshot 13"></td>
+    <td><img src="https://github.com/user-attachments/assets/d08bf83f-52d7-4e7c-9f31-d9f743c074e4" alt="Screenshot 14"></td>
+    <td><img src="https://github.com/user-attachments/assets/20f8dd3f-17a7-4b97-a2bf-d69cba2b1b94" alt="Screenshot 15"></td>
   </tr>
 </table>
 
@@ -55,7 +49,8 @@ FLauncher is a powerful, terminal-inspired Android launcher designed for speed, 
   - **Media Controls**: Integrated Play/Pause controls in the sidebar, synchronized with active music notifications.
   - **Dynamic Sidebar Clock**: Parrot OS style clock (`// HH:mm`) in the sidebar; tap to open the Clock/Alarm app.
   - `maps <location>`: Opens maps with the search query pre-filled.
-  - Browser Search: Unrecognized commands are automatically searched in your default browser.
+  - **Browser Search**: Unrecognized commands are automatically searched in your default browser or in native launcher browser.
+  - **Qr Reader**: integrated qr reader.
 - **Productivity & System**:
   - Screen Time: Live tracking of daily device usage displayed at the top.
   - `download`: Shortcut to the Downloads folder.

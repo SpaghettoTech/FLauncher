@@ -35,6 +35,7 @@ FLauncher is a powerful, terminal-inspired Android launcher designed for speed, 
   - `remove <app>`: Quickly uninstall applications.
 - **Smart Messaging & Terminal Chat**:
   - **Terminal Chat Session**: Clicking a messaging notification opens a dedicated chat session in the terminal, clearing previous output for focus.
+  - **Notes Section**: Add notes directly in the launcher.
   - **Direct App Launch**: Swiping left on a messaging notification (in the sidebar or history) opens the chat directly in the native app.
   - **Quick Reply**: Reply to messages directly from the terminal prompt during a chat session.
 - **Advanced Notification Center**:

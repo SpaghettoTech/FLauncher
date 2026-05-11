@@ -1,5 +1,7 @@
 # FLauncher - Minimalist Terminal Launcher
 
+⚠️The app is developed through vibe coding.
+
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/b5f5fbae-a132-48c5-9563-24707325f1f5" alt="Screenshot 1"></td>

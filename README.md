@@ -4,27 +4,21 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b5f5fbae-a132-48c5-9563-24707325f1f5" alt="Screenshot 1"></td>
-    <td><img src="https://github.com/user-attachments/assets/6984928c-688f-4556-a222-630a75cc9fe1" alt="Screenshot 2"></td>
-    <td><img src="https://github.com/user-attachments/assets/08c51f22-b586-4da3-96a7-76ce582adbca" alt="Screenshot 3"></td>
-    <td><img src="https://github.com/user-attachments/assets/0bc1ed04-8da6-408f-8539-365dc4e9275f" alt="Screenshot 4"></td>
-    <td><img src="https://github.com/user-attachments/assets/4204630b-d686-4c2c-b58f-5bb01d7ec11c" alt="Screenshot 5"></td>
+    <td><img src="https://github.com/user-attachments/assets/dadf6fc5-3533-4347-8954-28ec21fcdff5" alt="Immagine 1"></td>
+    <td><img src="https://github.com/user-attachments/assets/303f0a7c-2ec2-4e4f-aabf-16b81f91ca25" alt="Immagine 2"></td>
+    <td><img src="https://github.com/user-attachments/assets/18d9ee47-e7e6-40e5-9908-b70642c660bc" alt="Immagine 3"></td>
+    <td><img src="https://github.com/user-attachments/assets/b9a96703-b80f-4434-9622-1ec0f7ec6ee9" alt="Immagine 4"></td>
+    <td><img src="https://github.com/user-attachments/assets/fe2fb1a0-8615-49bb-9a90-577b1b57a109" alt="Immagine 5"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/3533ca7d-ca34-4f53-917c-f4fb76d9a8e3" alt="Screenshot 6"></td>
-    <td><img src="https://github.com/user-attachments/assets/0adb0c9a-366e-4c7d-bdf6-dcf5ece4d630" alt="Screenshot 7"></td>
-    <td><img src="https://github.com/user-attachments/assets/e8b942eb-3f73-4327-a6b3-138df48185f2" alt="Screenshot 8"></td>
-    <td><img src="https://github.com/user-attachments/assets/3b659430-edfa-4541-9dd9-7cfc4e95a539" alt="Screenshot 9"></td>
-    <td><img src="https://github.com/user-attachments/assets/b0a41018-1265-4963-a17e-05057b5cb5b3" alt="Screenshot 10"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/9ec82297-c0ef-4a00-853a-f73d1e4922b6" alt="Screenshot 11"></td>
-    <td><img src="https://github.com/user-attachments/assets/858fac8e-2715-4656-9630-47ee96713e5a" alt="Screenshot 12"></td>
-    <td><img src="https://github.com/user-attachments/assets/8380c87c-2f28-47f4-ae18-69f84381223a" alt="Screenshot 13"></td>
-    <td><img src="https://github.com/user-attachments/assets/d08bf83f-52d7-4e7c-9f31-d9f743c074e4" alt="Screenshot 14"></td>
-    <td><img src="https://github.com/user-attachments/assets/20f8dd3f-17a7-4b97-a2bf-d69cba2b1b94" alt="Screenshot 15"></td>
+    <td><img src="https://github.com/user-attachments/assets/23a7bdb9-fe7e-4c22-8383-0d802ccb7558" alt="Immagine 6"></td>
+    <td><img src="https://github.com/user-attachments/assets/361cdaa7-bd22-4971-9ccd-fd563d88cf3a" alt="Immagine 7"></td>
+    <td><img src="https://github.com/user-attachments/assets/4c02f1b0-edd6-4260-bbf5-78a9569ad338" alt="Immagine 8"></td>
+    <td><img src="https://github.com/user-attachments/assets/2a662459-1437-4ade-92e9-66eac150998a" alt="Immagine 9"></td>
+    <td><img src="https://github.com/user-attachments/assets/a448bb88-32d0-4916-8ca5-8ef0084ec8f8" alt="Immagine 10"></td>
   </tr>
 </table>
+
 
 FLauncher is a powerful, terminal-inspired Android launcher designed for speed, focus, and minimalism. It replaces your complex home screen with a high-performance command-line interface.
 
